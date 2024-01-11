@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davide9710
-- 👀 I’m interested in Algorithm and Datastracures, 
-- 🌱 I’m currently studying BS CS @PoliMi alonside with Elis technical formation
+- 👀 I’m interested in Quantum Annealing and Software Engineering, 
+- 🌱 I’m currently studying MSc CS @PoliMi and @KeioUniversity
 - 💞️ I’m looking to collaborate on Back end development and algorithm design
 - 📫 How to reach me: davidelaureti54@gmail.com
 
