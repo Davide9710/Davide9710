@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying MSc CS @PoliMi and @KeioUniversity
 - 💞️ I’m looking to collaborate on Back end development and algorithm design
 - 📫 How to reach me: davidelaureti54@gmail.com
+- 📫 Personal Landing page: https://davide9710.github.io/personal-landing-page/
 
 <!---
 Davide9710/Davide9710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
